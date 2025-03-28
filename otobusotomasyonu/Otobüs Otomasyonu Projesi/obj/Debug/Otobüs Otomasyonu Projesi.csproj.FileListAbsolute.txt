@@ -1,0 +1,11 @@
+C:\Users\atakan\Desktop\Otobüs Otomasyonu Projesi\Otobüs Otomasyonu Projesi\bin\Debug\Otobüs Otomasyonu Projesi.exe.config
+C:\Users\atakan\Desktop\Otobüs Otomasyonu Projesi\Otobüs Otomasyonu Projesi\bin\Debug\Otobüs Otomasyonu Projesi.exe
+C:\Users\atakan\Desktop\Otobüs Otomasyonu Projesi\Otobüs Otomasyonu Projesi\bin\Debug\Otobüs Otomasyonu Projesi.pdb
+C:\Users\atakan\Desktop\Otobüs Otomasyonu Projesi\Otobüs Otomasyonu Projesi\obj\Debug\Otobüs Otomasyonu Projesi.csproj.AssemblyReference.cache
+C:\Users\atakan\Desktop\Otobüs Otomasyonu Projesi\Otobüs Otomasyonu Projesi\obj\Debug\Otobüs_Otomasyonu_Projesi.Form1.resources
+C:\Users\atakan\Desktop\Otobüs Otomasyonu Projesi\Otobüs Otomasyonu Projesi\obj\Debug\Otobüs_Otomasyonu_Projesi.Properties.Resources.resources
+C:\Users\atakan\Desktop\Otobüs Otomasyonu Projesi\Otobüs Otomasyonu Projesi\obj\Debug\Otobüs Otomasyonu Projesi.csproj.GenerateResource.cache
+C:\Users\atakan\Desktop\Otobüs Otomasyonu Projesi\Otobüs Otomasyonu Projesi\obj\Debug\Otobüs Otomasyonu Projesi.csproj.CoreCompileInputs.cache
+C:\Users\atakan\Desktop\Otobüs Otomasyonu Projesi\Otobüs Otomasyonu Projesi\obj\Debug\Otobüs Otomasyonu Projesi.exe
+C:\Users\atakan\Desktop\Otobüs Otomasyonu Projesi\Otobüs Otomasyonu Projesi\obj\Debug\Otobüs Otomasyonu Projesi.pdb
+C:\Users\atakan\Desktop\Otobüs Otomasyonu Projesi\Otobüs Otomasyonu Projesi\obj\Debug\Otobüs_Otomasyonu_Projesi.Form2.resources

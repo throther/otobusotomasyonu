@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atakan\\Desktop\\Otob\u00FCs Otomasyonu Projesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A86768F4-2BA7-40B0-97D5-ED1DAA42305A}|Otob\u00FCs Otomasyonu Projesi\\Otob\u00FCs Otomasyonu Projesi.csproj|c:\\users\\atakan\\desktop\\otob\u00FCs otomasyonu projesi\\otob\u00FCs otomasyonu projesi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86768F4-2BA7-40B0-97D5-ED1DAA42305A}|Otob\u00FCs Otomasyonu Projesi\\Otob\u00FCs Otomasyonu Projesi.csproj|solutionrelative:otob\u00FCs otomasyonu projesi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86768F4-2BA7-40B0-97D5-ED1DAA42305A}|Otob\u00FCs Otomasyonu Projesi\\Otob\u00FCs Otomasyonu Projesi.csproj|C:\\Users\\atakan\\Desktop\\Otob\u00FCs Otomasyonu Projesi\\otob\u00FCs otomasyonu projesi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A86768F4-2BA7-40B0-97D5-ED1DAA42305A}|Otob\u00FCs Otomasyonu Projesi\\Otob\u00FCs Otomasyonu Projesi.csproj|solutionrelative:otob\u00FCs otomasyonu projesi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86768F4-2BA7-40B0-97D5-ED1DAA42305A}|Otob\u00FCs Otomasyonu Projesi\\Otob\u00FCs Otomasyonu Projesi.csproj|C:\\Users\\atakan\\Desktop\\Otob\u00FCs Otomasyonu Projesi\\otob\u00FCs otomasyonu projesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A86768F4-2BA7-40B0-97D5-ED1DAA42305A}|Otob\u00FCs Otomasyonu Projesi\\Otob\u00FCs Otomasyonu Projesi.csproj|solutionrelative:otob\u00FCs otomasyonu projesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\atakan\\Desktop\\Otob\u00FCs Otomasyonu Projesi\\Otob\u00FCs Otomasyonu Projesi\\Form2.cs",
+              "RelativeDocumentMoniker": "Otob\u00FCs Otomasyonu Projesi\\Form2.cs",
+              "ToolTip": "C:\\Users\\atakan\\Desktop\\Otob\u00FCs Otomasyonu Projesi\\Otob\u00FCs Otomasyonu Projesi\\Form2.cs",
+              "RelativeToolTip": "Otob\u00FCs Otomasyonu Projesi\\Form2.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAIAwwFsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:25:17.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\atakan\\Desktop\\Otob\u00FCs Otomasyonu Projesi\\Otob\u00FCs Otomasyonu Projesi\\Form2.cs",
+              "RelativeDocumentMoniker": "Otob\u00FCs Otomasyonu Projesi\\Form2.cs",
+              "ToolTip": "C:\\Users\\atakan\\Desktop\\Otob\u00FCs Otomasyonu Projesi\\Otob\u00FCs Otomasyonu Projesi\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Otob\u00FCs Otomasyonu Projesi\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T01:17:01.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\atakan\\Desktop\\Otob\u00FCs Otomasyonu Projesi\\Otob\u00FCs Otomasyonu Projesi\\Form1.cs",
+              "RelativeDocumentMoniker": "Otob\u00FCs Otomasyonu Projesi\\Form1.cs",
+              "ToolTip": "C:\\Users\\atakan\\Desktop\\Otob\u00FCs Otomasyonu Projesi\\Otob\u00FCs Otomasyonu Projesi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Otob\u00FCs Otomasyonu Projesi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T00:43:11.379Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
